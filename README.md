@@ -13,7 +13,7 @@ In Flex, users will be able to:
 * Export a copy of the CSS code when they are finished
 
 ### Wireframes
-
+https://github.com/Rainmire/flex/blob/master/docs/Wireframes.png
 
 ### Implementation Timeline
 
