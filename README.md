@@ -2,7 +2,7 @@
 
 ### Background and Overview
 
-Flex is a visual and interactive approach to CSS styling. Flex allows the user to draw on a canvas, and then convert that into functional CSS code.
+Flex is a visual and interactive approach to CSS styling. Flex allows the user to draw on a canvas, and then convert that into functional HTML/CSS code.
 
 ### Functionality & MVP
 
@@ -14,3 +14,32 @@ In Flex, users will be able to:
 
 ### Wireframes
 
+
+### Implementation Timeline
+
+Day 1:
+* Get webpack working
+* Render a blank canvas assiciated with an html and CSS file
+* Render the canvas CSS file on the screen
+
+Day 2:
+* Make canvas interactive
+* * Clicking on canvas divides the box in half
+* * * Adds the appropriate HTML/CSS
+* * Smaller boxes can be clicked again
+* * Implement a switch for horizonal and vertical divisions
+
+Day 3:
+* Allow boxes to be resized and changes CSS to match
+* Allow text to be added and changes CSS to match
+
+Day 4:
+* Style the page to make it look professional
+
+### Bonus Features:
+
+* Allow further customization
+* * border
+* * background color
+* * font
+* * etc
